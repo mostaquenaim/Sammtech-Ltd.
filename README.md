@@ -48,29 +48,15 @@ Powered by innovation, deliver quality solutions. Ease your Business.
 - Aspire to lead by setting the standards that others emulate.
 - Honest and fair in our dealings with customers, partners, shareholders, and each other.
 
-## Clients and Partners
-
-- [Client/Partner Name 1](#)
-- [Client/Partner Name 2](#)
-- ...
-
 ## Co-curricular Activities
 
 - Daily exercise sessions
 - Day out activities
 - Sports
 - Training sessions
-
-## Internship Experience
-
-I had the opportunity to intern at SammTech and was part of the Web Development team. During my internship, I was involved in various projects and gained valuable real-world experience. This experience enhanced my communication skills, teamwork, and problem-solving abilities in a professional work environment.
-
-## Objectives
-
-The major goal of this internship was to prepare myself for a career in the IT sector. It provided insights into the working process of a leading IT firm, contributing to my Bachelor's degree in Science from the American International University-Bangladesh.
-
+  
 Feel free to explore this repository for more details on SammTech Limited and its contributions to the IT industry.
 
 ---
 
-**For more information, visit [SammTech's Official Website](https://www.sammtech.com/).**
+**For more information, visit [SammTech's Official Website](https://www.samm-tech.net/).**
