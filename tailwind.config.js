@@ -7,12 +7,20 @@ module.exports = {
   ],
   theme: {
     extend: {
+      // fontFamily: {
+      //   'sans': ['Oswald', 'sans-serif'],
+      // },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+        "gradient-conic": "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
     },
   },
-  plugins: [],
+  plugins: [
+    // Include the daisyui plugin
+    require('daisyui'),
+  ],
+  daisyui: {
+    themes: ["light", "dark", "cupcake", "winter", "synthwave"],
+  },
 };

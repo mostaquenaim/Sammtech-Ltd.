@@ -1,0 +1,82 @@
+[
+  {
+    "category": "Core Offerings",
+    "list": [
+      {
+        "name": "Payroll Management System",
+        "description": "Efficiently manage and automate payroll processes for businesses of all sizes.",
+        "icon": "/payroll.png"
+      },
+      {
+        "name": "HR Ultimus",
+        "description": "Comprehensive human resources management system for streamlined HR operations.",
+        "icon": "/hr.png"
+      },
+      {
+        "name": "Inventory Management Software",
+        "description": "Optimize inventory tracking, ordering, and management for businesses.",
+        "icon": "/management.png"
+      },
+      {
+        "name": "Restaurant & Store Management Software",
+        "description": "Tailored solutions for effective management of restaurants and retail stores.",
+        "icon": "/restaurant.png"
+      },
+      {
+        "name": "Accounts & Finance Solution for Businesses",
+        "description": "Integrated accounting and finance software for accurate financial management.",
+        "icon": "/accounting.png"
+      },
+      {
+        "name": "Banking Software Solutions",
+        "description": "Customized software solutions to meet the specific needs of the banking industry.",
+        "icon": "/accounting.png"
+      },
+      {
+        "name": "ERP Software",
+        "description": "Enterprise Resource Planning software for seamless integration of business processes.",
+        "icon": "/payroll.png"
+      }
+    ]
+  },
+  {
+    "category": "Digital Solutions",
+    "list": [
+      {
+        "name": "Social Media Marketing",
+        "description": "Strategic and effective social media marketing services to enhance brand presence.",
+        "icon": "/social-media-marketing.png"
+      },
+      {
+        "name": "Web Development & Design",
+        "description": "Creative and functional website development and design services.",
+        "icon": "/app-development.png"
+      },
+      {
+        "name": "SEO",
+        "description": "Search Engine Optimization services to improve online visibility and rankings.",
+        "icon": "/seo.png"
+      },
+      {
+        "name": "2D Animation",
+        "description": "Engaging 2D animation services for multimedia and promotional purposes.",
+        "icon": "/animation.png"
+      },
+      {
+        "name": "3D Animation",
+        "description": "High-quality 3D animation for visualizing concepts and products.",
+        "icon": "/3d-movie.png"
+      },
+      {
+        "name": "Graphics Design",
+        "description": "Graphic design services for creating visually appealing marketing materials.",
+        "icon": "/web-design.png"
+      },
+      {
+        "name": "UI & UX Solutions",
+        "description": "User-centric UI/UX design services for intuitive and seamless digital experiences.",
+        "icon": "/ux-design.png"
+      }
+    ]
+  }
+]
